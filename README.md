@@ -10,6 +10,8 @@ When planning for something select the text area besides the time of event and e
 
 ## **Important Code**
 This is a code snippet of what consited in the html to create the time slot. The process was reapeted with each time slot for a uniform appearance.
+
+
 ![code](https://github.com/KrystopherQ/Work-Planner/blob/main/assets/code.png)
 
 ## Deployed
