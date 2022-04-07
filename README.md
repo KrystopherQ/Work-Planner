@@ -1,6 +1,6 @@
 # Work-Planner
 ## **About**
-This Work Planner 
+The Work Planner purpose is to create a neat simple solution to organize your work day. Whether that be a 9am-5pm or 6am-2pm this planner would help with its 12 hour 6am-6pm time entries. With the current date and time displayed at the top.
 ![about](assets\about.png)
 
 ## **Entering Information**
@@ -9,8 +9,8 @@ When planning for something select the text area besides the time of event and e
 ![save](assets\save.png)
 
 ## **Important Code**
-
-![code]()
+This is a code snippet of what consited in the html to create the time slot. The process was reapeted with each time slot for a uniform appearance.
+![code](assets\code.png)
 
 ## Deployed
 
